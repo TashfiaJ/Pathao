@@ -1,0 +1,21 @@
+users
+    id
+    name
+    location
+    coordinate
+drivers
+    id
+    name
+    rating
+    location
+    coordinate
+ride
+    id
+    pickup
+    dropoff
+    status
+    user_id
+    driver_id
+    rating
+    ordered_time
+    
